@@ -19,3 +19,11 @@ Il se décompose en 3 parties :
 3. Text-to-speech : on installe les librairies python suivantes
 
 4. Pour l'application Gradio, on installe
+
+
+
+## Usage
+1. On créé d'abord un nouvel environnement python. `python -m venv /path/to/new/virtual/environment` (à faire une seule fois)
+2. Activer l'environnement créé `source ...`
+3. Lancer l'application `python app.py`
+4. Aller sur le lien `http://127.0.0.1:7860`
