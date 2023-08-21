@@ -1,6 +1,6 @@
 # Voice-Bot
 
-## À propos
+## About
 Ce voice-bot a été créé dans le cadre d'un mémoire de fin d'étude.
 
 Il se décompose en 3 parties :
